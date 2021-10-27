@@ -13,7 +13,7 @@
         android:layout_height="90dp"
         android:layout_marginTop="80dp"
 
-        android:text="MASSA"
+        android:text="MASSAS"
         app:layout_constraintBottom_toTopOf="@+id/painelprincipal_botaoVolume"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
