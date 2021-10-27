@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoisPesos</string>
+
+    <string-array name="listaMassica">
+        <item name="miligramas">miligramas</item>
+        <item name="gramas">gramas</item>
+        <item name="kilogramas">kilogramas</item>
+
+
+    </string-array>
+
+    <string-array name="listaVolumetrica">
+    <item name="mililitros">mililitros</item>
+    <item name="litros">litros</item>
+    </string-array>
+
+</resources>
